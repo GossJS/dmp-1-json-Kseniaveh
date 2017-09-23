@@ -7,3 +7,5 @@ https://kodaktor.ru/g/dmp13092017
 
 Выполнено задание Часть1. 1. 18.09. 2017
 Ссылка на JSON- https://kodaktor.ru/j/myjson_ec4e7
+Выполнено задание Часть2. 23.09.2017
+Ссылка на JSON-https://kodaktor.ru/j/myjson_6b0ab
